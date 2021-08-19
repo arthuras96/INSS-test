@@ -1,4 +1,4 @@
-# INSS - Calculador de Aliquota
+# INSS - Calculador de Alíquota
 
 ## Motivação
 
